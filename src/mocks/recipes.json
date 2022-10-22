@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Mojito",
+        "image": "mojito.jpg",
+        "ingredients": "citron vert, rhum blanc, menthe, eau gazeuse",
+        "steps": "presser le citron vert, mettre les feuilles de menthe, mettre le sucre, piler le tout, appuyer sur continuer"
+    },
+    {
+        "name": "Skrew driver",
+        "image": "skrewdriver.jpg",
+        "ingredients": "vodka, jus d'orange",
+        "steps": "appuyer sur préparer le cocktail"
+    }
+]

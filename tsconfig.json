@@ -1,0 +1,29 @@
+{
+    "compilerOptions": {
+        "baseUrl": "./src",
+        "paths": {
+            "@Components/*": ["./components/*"],
+            "@Images/*": ["./images/*"]
+        },
+        "jsx": "react-jsx",
+        "target": "es5",
+        "module": "commonjs",
+        "lib": ["es5", "es6", "dom", "dom.iterable"],
+        "moduleResolution": "node",
+        "allowJs": true,
+    
+        "skipLibCheck": true,
+        "esModuleInterop": true,
+        "allowSyntheticDefaultImports": true,
+        "strict": true,
+        "forceConsistentCasingInFileNames": true,
+        "noFallthroughCasesInSwitch": true,
+        "resolveJsonModule": true,
+        "isolatedModules": true,
+        "outDir": "./dist/",
+        "sourceMap": false,
+        "noImplicitAny": true 
+    },
+    "include": ["src/**/*"],
+    "exclude": ["node_modules"]
+}
